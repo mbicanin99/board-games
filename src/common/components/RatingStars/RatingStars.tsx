@@ -1,4 +1,4 @@
-import type { Rating } from '../types/enums'
+import type { Rating } from '../../types/enums'
 
 interface RatingStarsProps {
     value: Rating

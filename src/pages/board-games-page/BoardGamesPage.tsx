@@ -1,7 +1,7 @@
 import { BoardGames } from '../../components/BoardGames/BoardGames.tsx'
 import { BOARD_GAMES_PAGE_TITLE, boardGames } from '../../constants'
 import { Button } from '../../common/components/Buttons'
-import { PDFPreviewModal } from '../../common/components/PDFPreviewModal.tsx'
+import { PDFPreviewModal } from '../../common/components/PDFPreviewModal/PDFPreviewModal.tsx'
 import { useState } from 'react'
 import { BoardGameCard } from '../../components/BoardGameCard'
 

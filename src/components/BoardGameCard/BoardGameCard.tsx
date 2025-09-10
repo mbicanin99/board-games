@@ -1,5 +1,5 @@
 import type { BoardGame } from '../../common/types/interface'
-import { RatingStars } from '../../common/components/RatingStars.tsx'
+import { RatingStars } from '../../common/components/RatingStars/RatingStars.tsx'
 import { Button } from '../../common/components/Buttons'
 import { Tooltip } from '../../common/components/Tooltip/Tooltip.tsx'
 import { difficultyTooltip } from '../../constants'

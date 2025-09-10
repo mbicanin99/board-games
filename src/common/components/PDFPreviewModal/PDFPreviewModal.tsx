@@ -1,7 +1,7 @@
 import { useRef } from 'react'
 import { useReactToPrint } from 'react-to-print'
 import type { ReactNode } from 'react'
-import { Button } from './Buttons'
+import { Button } from '../Buttons'
 
 interface PDFPreviewModalProps<T> {
     items: T[]
