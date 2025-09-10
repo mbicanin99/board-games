@@ -1,4 +1,13 @@
 # React + TypeScript + Vite
+
+This is a responsive web app built with React and Tailwind CSS that displays a list of board games.
+
+Features:
+Browse a list of board game cards with key details (name, description, players, playtime, age, category, difficulty, rating).
+Preview the PDF version of the game list using the "Save as PDF" button.
+Download the complete list of board games as a PDF via the "Download" button.
+Click "Learn More" to visit the official game website.
+
 <img width="961" height="729" alt="Screenshot 2025-09-10 at 18 48 44" src="https://github.com/user-attachments/assets/982c46c5-eb06-42a1-ad55-af3a19163c96" />
 <img width="775" height="678" alt="Screenshot 2025-09-10 at 18 49 12" src="https://github.com/user-attachments/assets/99058757-62eb-4ff7-931f-c01178bf3fbb" />
 <img width="955" height="742" alt="Screenshot 2025-09-10 at 18 49 30" src="https://github.com/user-attachments/assets/5c785b9d-455b-4f99-986c-c7aadf6197b3" />
