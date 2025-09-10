@@ -1,7 +1,9 @@
 # React + TypeScript + Vite
+<img width="961" height="729" alt="Screenshot 2025-09-10 at 18 48 44" src="https://github.com/user-attachments/assets/982c46c5-eb06-42a1-ad55-af3a19163c96" />
+<img width="775" height="678" alt="Screenshot 2025-09-10 at 18 49 12" src="https://github.com/user-attachments/assets/99058757-62eb-4ff7-931f-c01178bf3fbb" />
+<img width="955" height="742" alt="Screenshot 2025-09-10 at 18 49 30" src="https://github.com/user-attachments/assets/5c785b9d-455b-4f99-986c-c7aadf6197b3" />
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
